@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa7f9376-c6ff-4498-97e2-fab40d1a2130" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2akOruH89PrtQ1YFJBCvqycisXr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddBinary.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BestTimeToBuyAndSellStock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bitmasking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CanPlaceFlowerbed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChatGPT.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClimbingStairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClosestPrimeNumInRange.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CoinChange.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CombinationSumIV.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CombinationSums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionalSatements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainerWithMostWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainsDuplicateII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainsDuplicateIII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContinuousSubarraySum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CountDerangement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountPrime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DailyTemperatures.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeliveringBoxesFromStorageToPort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.DeterminTheLeadingWizard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EquiNumTriangle.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.EquivalentTwoStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorials.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindAllAnagramInString.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FindTheDifference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindTheUniqueArtifact.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNegativeIntInEveryWindowOfSizeK.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstOccInString.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.GetTheUniqueNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetTheUniqueNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Grades.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Graph.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GraphDFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestCommonDivisorOfString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HeapSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HouseRobber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.IsSubsequence.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.IsometricString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KidsWithGreatestNumOfCandies.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthLargestElementInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthLargestElementInStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestRectangleInHistogram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeastCapofShip.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LengthOfLastWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LetterCombinationsOfAPhoneNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestHarmoniousSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestKUniqueCharSubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubarrayOf1AfterDeletingOneElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubarrayWithSumK.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstringWithAtLeastKRepeatingCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstringWithoutRepeatingCharacters.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MajorityElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixDiagonalSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxAvgSubarrayI.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MaxConsecutiveOnesIII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxProdSubarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSumSubarrOfSizeK.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MaxTreasureWithExtraCoins.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximizeConsecutiveGoldCoins.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximizeNumOf1s.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MaximumSubarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxinArr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MedianOfTwoSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Memoization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mensuration.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MergeStringAlternately.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MiddleOfTheLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinCostClimbingStairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinMaxSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinSizeSubaaraySum (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MinSizeSubaaraySum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MinStringLengthAfterRemovingSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MostFrequentEvenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeroes.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MultiplyString.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MyCharRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NPrimeNums (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.NoOfBitChangesToMakeTwoIntegerEqual.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NthTribonacciNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOf1Bits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfStudentsUnableToEat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PascalTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pathagoras.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PeakIndexInAMountainArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PerfectSquares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PermutationII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PermuteArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PlayGround.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlusOne.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PowerOfFour.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PowerOfTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerofTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumOfSetBitsInBinaryRepresentation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOfArrayExceptSelf.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ProductOfLastKNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RangeSumOfSortedSubarraySums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RangeSumWithElementUpdateQueries.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Recurssion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicateFromSortedArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RemoveElement.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RepeatedSubstringPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversePrefixOfWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseStack.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReverseTheVowelOfString.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReversedInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RichestCustomerWealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateImage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunningSumOf1DArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SatisfyingAdventurers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scaler.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchA2DMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInRotatedSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInRotatedSortedArrayII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInsertPosition.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SecondLarNumArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ShuffleArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SieveOfEratosthenes.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SimpleInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleNumberIII.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SingleyCircularLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SlidingWindowMax.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SlidingWondowMaximum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SortCharactersByFrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortingOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpecialArray1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralMatrix2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SpiralMatrixII.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SqaurePattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SqrtOfNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCompression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMultiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubOfProdAndSum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SubarraySumEqualsK.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubsetsII.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Sum10naturalNums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum2Nums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumnNums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapNibblesInAByte.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tabulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThirdMaxNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TopKFrequentElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TopKFrequentWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransposeMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrappingRainwater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSumII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UglyNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidParanthessis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidSquare.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.VoteEligibility.executor&quot;: &quot;Run&quot;,
+    &quot;Application.XMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linkedList.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Toshal/Projects/learningJava&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/91737/IdeaProjects/learningJava/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="IntialPractise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NumberOfStudentsUnableToEat">
+    <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-22.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.Array.BestTimeToBuyAndSellStock" />
+      <module name="learningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeastCapofShip" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-22.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GeekForGeek.Array.LeastCapofShip" />
+      <module name="learningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GeekForGeek.SlidingWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinSizeSubaaraySum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.PrefixSum.MinSizeSubaaraySum" />
+      <module name="learningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.PrefixSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinSizeSubaaraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.PrefixSum.MinSizeSubaaraySum" />
+      <module name="learningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.PrefixSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfStudentsUnableToEat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.StackAndQueue.Queue.NumberOfStudentsUnableToEat" />
+      <module name="learningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.StackAndQueue.Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise" />
+      <module name="learningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.BinarySearch.SearchInsertPosition" />
+      <module name="learningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BestTimeToBuyAndSellStock" />
+      <item itemvalue="Application.LeastCapofShip" />
+      <item itemvalue="Application.MinSizeSubaaraySum (1)" />
+      <item itemvalue="Application.MinSizeSubaaraySum" />
+      <item itemvalue="Application.NumberOfStudentsUnableToEat" />
+      <item itemvalue="Application.Practise" />
+      <item itemvalue="Application.SearchInsertPosition" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumberOfStudentsUnableToEat" />
+        <item itemvalue="Application.MinSizeSubaaraySum" />
+        <item itemvalue="Application.MinSizeSubaaraySum (1)" />
+        <item itemvalue="Application.SearchInsertPosition" />
+        <item itemvalue="Application.Practise" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa7f9376-c6ff-4498-97e2-fab40d1a2130" name="Changes" comment="" />
+      <created>1704859315679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704859315679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IntialPractise/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IntialPractise/Scaler.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GeekForGeek/Array/LeastCapofShip.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/FindTheDifference.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/SubarraySumEqualsK.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GeekForGeek/SlidingWindow/MaxSumSubarrOfSizeK.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Prime/CountPrime.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Prime/CountPrime.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Prime/ClosestPrimeNumInRange.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Prime/ClosestPrimeNumInRange.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/MoveZeroes.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/BitManipulation/AddBinary.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/BitManipulation/AddBinary.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/BitManipulation/AddBinary.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/ContainerWithMostWater.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/RemoveDuplicateFromSortedArray.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/GetTheUniqueNum.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Prime/PrimeNumOfSetBitsInBinaryRepresentation.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/BinarySearch/ValidSquare.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/ShuffleArray.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/EquivalentTwoStrings.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/TwoDimensionalArray/XMatrix.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/TwoDimensionalArray/SpiralMatrix2.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/BinarySearch/SearchInRotatedSortedArray.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PlayGround.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/SlidingWindow/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/FindAllAnagramInString.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/ThirdMaxNum.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/StackAndQueue/Stack/MinStack.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSATopics/LinkedList/linkedList.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSATopics/LinkedList/linkedList.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSATopics/Sorting/InsertionSort.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Sorting/MergeTwoSortedArray.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSATopics/Sorting/HeapSort.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Heap_PriorityQueue/SortCharactersByFrequency.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/RecursionCumDP/CoinChange.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/GreatestCommonDivisorOfString.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank/RangeSumWithElementUpdateQueries.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/StackAndQueue/Stack/ProductOfLastKNumbers.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/MaximumSubarray.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/IntialPractise/PermuteArray.java</url>
+          <line>2</line>
+          <properties class="IntialPractise.PermuteArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/IntialPractise/Scaler.java</url>
+          <line>76</line>
+          <properties class="IntialPractise.Scaler">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/IntialPractise/Solution.java</url>
+          <line>25</line>
+          <properties class="IntialPractise.Solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/GeekForGeek/Array/SecondLarNumArray.java</url>
+          <line>22</line>
+          <properties class="GeekForGeek.Array.SecondLarNumArray" method="print2largest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/Mathematics/SubOfProdAndSum.java</url>
+          <line>34</line>
+          <properties class="leetCode.Mathematics.SubOfProdAndSum" method="subtractProductAndSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/StringMultiplication.java</url>
+          <line>32</line>
+          <properties class="leetCode.String.StringMultiplication" method="multiply">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/MaxProdSubarray.java</url>
+          <line>38</line>
+          <properties class="leetCode.Array.MaxProdSubarray" method="maxProduct">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/GeekForGeek/Array/FirstNegativeIntInEveryWindowOfSizeK.java</url>
+          <line>71</line>
+          <properties class="GeekForGeek.Array.FirstNegativeIntInEveryWindowOfSizeK" method="printFirstNegativeInteger1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/GeekForGeek/String/LongestKUniqueCharSubString.java</url>
+          <line>43</line>
+          <properties class="GeekForGeek.String.LongestKUniqueCharSubString" method="longestkSubstr">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/GeekForGeek/Array/MaximizeNumOf1s.java</url>
+          <line>65</line>
+          <properties class="GeekForGeek.Array.MaximizeNumOf1s" method="findZeroes">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReversedInput.java</url>
+          <line>21</line>
+          <properties class="ReversedInput" method="pattern">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/IntialPractise/Pattern.java</url>
+          <line>101</line>
+          <properties class="IntialPractise.Pattern" method="pattern8">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/RemoveElement.java</url>
+          <line>77</line>
+          <properties class="leetCode.Array.RemoveElement" method="removeElement">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/TwoDimensionalArray/SearchA2DMatrix.java</url>
+          <line>41</line>
+          <properties class="leetCode.TwoDimensionalArray.SearchA2DMatrix" method="searchMatrix">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/TwoDimensionalArray/SpiralMatrix.java</url>
+          <line>14</line>
+          <properties class="leetCode.TwoDimensionalArray.SpiralMatrix" method="spiralOrder">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/BitManipulation/PowerOfTwo.java</url>
+          <line>15</line>
+          <properties class="leetCode.BitManipulation.PowerOfTwo" method="isPowerOf2">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/PlusOne.java</url>
+          <line>45</line>
+          <properties class="leetCode.Array.PlusOne" method="plusOne">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/ThirdMaxNum.java</url>
+          <line>92</line>
+          <properties class="leetCode.Array.ThirdMaxNum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/RunningSumOf1DArray.java</url>
+          <line>36</line>
+          <properties class="leetCode.Array.RunningSumOf1DArray" method="runningSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/BinarySearch/SearchInRotatedSortedArrayII.java</url>
+          <line>38</line>
+          <properties class="leetCode.BinarySearch.SearchInRotatedSortedArrayII" method="search">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/BinarySearch/PeakIndexInAMountainArray.java</url>
+          <line>56</line>
+          <properties class="leetCode.BinarySearch.PeakIndexInAMountainArray" method="peakIndex">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/PlayGround.java</url>
+          <line>63</line>
+          <properties class="PlayGround">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/BinarySearch/MedianOfTwoSortedArray.java</url>
+          <line>40</line>
+          <properties class="leetCode.BinarySearch.MedianOfTwoSortedArray" method="findMedianSortedArrays">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/Hashing/SubarraySumEqualsK.java</url>
+          <line>33</line>
+          <properties class="leetCode.Hashing.SubarraySumEqualsK" method="subarraySum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/GeekForGeek/SlidingWindow/LongestSubarrayWithSumK.java</url>
+          <line>90</line>
+          <properties class="GeekForGeek.SlidingWindow.LongestSubarrayWithSumK" method="getLongestSubarray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/ReverseTheVowelOfString.java</url>
+          <line>31</line>
+          <properties class="leetCode.String.ReverseTheVowelOfString" method="reverseVowels">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/TwoDimensionalArray/SpiralMatrixII.java</url>
+          <line>24</line>
+          <properties class="leetCode.TwoDimensionalArray.SpiralMatrixII" method="generateMatrix">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/PlayGround.java</url>
+          <line>56</line>
+          <properties class="PlayGround" method="factorial">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/GroupAnagrams.java</url>
+          <line>36</line>
+          <properties class="leetCode.String.GroupAnagrams" method="groupAnagrams">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/MultiplyString.java</url>
+          <line>33</line>
+          <properties class="leetCode.String.MultiplyString" method="multiply1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/IsometricString.java</url>
+          <line>42</line>
+          <properties class="leetCode.String.IsometricString" method="isIsomorphic">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/LargestNumber.java</url>
+          <line>35</line>
+          <properties class="leetCode.String.LargestNumber" method="largestNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/SlidingWindow/ContainsDuplicateII.java</url>
+          <line>36</line>
+          <properties class="leetCode.SlidingWindow.ContainsDuplicateII" method="containsNearbyDuplicate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/SlidingWindow/ContainsDuplicateIII.java</url>
+          <line>105</line>
+          <properties class="leetCode.SlidingWindow.ContainsDuplicateIII" method="sum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/SlidingWindow/ContainsDuplicateIII.java</url>
+          <line>52</line>
+          <properties class="leetCode.SlidingWindow.ContainsDuplicateIII" method="sum1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/SlidingWindow/MaxAvgSubarrayI.java</url>
+          <line>34</line>
+          <properties class="leetCode.SlidingWindow.MaxAvgSubarrayI" method="findMaxAverage">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/FirstOccInString.java</url>
+          <line>38</line>
+          <properties class="leetCode.String.FirstOccInString" method="strStr">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/LongestSubarrayOf1AfterDeletingOneElement.java</url>
+          <line>38</line>
+          <properties class="leetCode.Array.LongestSubarrayOf1AfterDeletingOneElement" method="longestSubarray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding360/StackQueue/ReverseStack.java</url>
+          <line>45</line>
+          <properties class="Coding360.StackQueue.ReverseStack">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/StackAndQueue/Stack/LargestRectangleInHistogram.java</url>
+          <line>30</line>
+          <properties class="leetCode.StackAndQueue.Stack.LargestRectangleInHistogram" method="largestRectangleArea">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DSATopics/Sorting/MergeSort.java</url>
+          <line>11</line>
+          <properties class="DSATopics.Sorting.MergeSort" method="sort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/PrefixSum/ContinuousSubarraySum.java</url>
+          <line>51</line>
+          <properties class="leetCode.PrefixSum.ContinuousSubarraySum" method="checkSubarraySum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/HackerRank/DeterminTheLeadingWizard.java</url>
+          <line>67</line>
+          <properties class="HackerRank.DeterminTheLeadingWizard" method="leadingWizard">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/BitManipulation/SingleNumberIII.java</url>
+          <line>64</line>
+          <properties class="leetCode.BitManipulation.SingleNumberIII" method="singleNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/BitManipulation/SingleNumberIII.java</url>
+          <line>46</line>
+          <properties class="leetCode.BitManipulation.SingleNumberIII" method="singleNumberIII">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/PrefixSum/ProductOfArrayExceptSelf.java</url>
+          <line>38</line>
+          <properties class="leetCode.PrefixSum.ProductOfArrayExceptSelf" method="productExceptSelf">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/RecursionCumDP/MinCostClimbingStairs.java</url>
+          <line>85</line>
+          <properties class="leetCode.RecursionCumDP.MinCostClimbingStairs" method="minCostClimbingStairsTabulation">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/RecursionCumDP/PowerOfFour.java</url>
+          <line>35</line>
+          <properties class="leetCode.RecursionCumDP.PowerOfFour" method="isPowerOfFour">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/Array/TrappingRainwater.java</url>
+          <line>28</line>
+          <properties class="leetCode.Array.TrappingRainwater" method="trap">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/MinStringLengthAfterRemovingSubstring.java</url>
+          <line>39</line>
+          <properties class="leetCode.String.MinStringLengthAfterRemovingSubstring" method="minLength">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/RecursionCumDP/Backtracking/LetterCombinationsOfAPhoneNumber.java</url>
+          <line>65</line>
+          <properties class="leetCode.RecursionCumDP.Backtracking.LetterCombinationsOfAPhoneNumber" method="combinationHelper">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/StackAndQueue/Queue/DeliveringBoxesFromStorageToPort.java</url>
+          <line>70</line>
+          <properties class="leetCode.StackAndQueue.Queue.DeliveringBoxesFromStorageToPort" method="boxDelivering">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/RecursionCumDP/Backtracking/SubsetsII.java</url>
+          <line>31</line>
+          <properties class="leetCode.RecursionCumDP.Backtracking.SubsetsII" method="subsetsWithDup">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/RecursionCumDP/Backtracking/PermutationII.java</url>
+          <line>33</line>
+          <properties class="leetCode.RecursionCumDP.Backtracking.PermutationII" method="permuteUnique">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DSATopics/Graph/Graph.java</url>
+          <line>56</line>
+          <properties class="DSATopics.Graph.Graph" method="breadthFirstSearch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/StringCompression.java</url>
+          <line>46</line>
+          <properties class="leetCode.String.StringCompression" method="compress">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/SlidingWindow/LongestHarmoniousSequence.java</url>
+          <line>57</line>
+          <properties class="leetCode.SlidingWindow.LongestHarmoniousSequence" method="findLHS">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/String/IsSubsequence.java</url>
+          <line>37</line>
+          <properties class="leetCode.String.IsSubsequence" method="isSubsequence">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/RecursionCumDP/Backtracking/CombinationSums.java</url>
+          <line>49</line>
+          <properties class="leetCode.RecursionCumDP.Backtracking.CombinationSums" method="combinationSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/RecursionCumDP/CombinationSumIV.java</url>
+          <line>50</line>
+          <properties class="leetCode.RecursionCumDP.CombinationSumIV" method="combinationSum4">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetCode/BinarySearch/SearchInsertPosition.java</url>
+          <line>41</line>
+          <properties class="leetCode.BinarySearch.Position" method="searchInsert">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
